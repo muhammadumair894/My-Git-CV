@@ -20,7 +20,6 @@ const contact = {
         },
      socials: {
          linkedIn: "https://www.linkedin.com/in/muhammad-umair-ab4ba2107/",
-
      },
 
 }
