@@ -1,4 +1,4 @@
-# My-Git-CV 
+# My-Git-Intro 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Machine Leaning](https://img.shields.io/badge/Machine-Learning-brightgreen)
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-brightgreen)
